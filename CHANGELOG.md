@@ -1,0 +1,44 @@
+# CHANGELOG
+
+<!-- version list -->
+
+## v5.0.7 (2026-02-23)
+
+
+## v5.0.6 (2026-02-23)
+
+### Bug Fixes
+
+- Bad PP tk
+  ([`e9e3afc`](https://github.com/GrCOTE7/Kit2/commit/e9e3afce546395f0dd2311ac9fea3f61eef0cf98))
+
+- Up ([`e3a8b22`](https://github.com/GrCOTE7/Kit2/commit/e3a8b229b9df6de2dbe61fefc62142d3342a84fe))
+
+
+## v5.0.5 (2026-02-23)
+
+
+## v5.0.4 (2026-02-23)
+
+### Bug Fixes
+
+- 4 ? ([`83969cd`](https://github.com/GrCOTE7/Kit2/commit/83969cd33e23927b2ebf21648566f6ea9afe2f69))
+
+- Up bad Tk
+  ([`bf7497d`](https://github.com/GrCOTE7/Kit2/commit/bf7497d5946f3b46ed691870262f7de73ad0ef2a))
+
+
+## v5.0.3 (2026-02-23)
+
+### Bug Fixes
+
+- Previous is not a release
+  ([`7f43d29`](https://github.com/GrCOTE7/Kit2/commit/7f43d29d97cd300660b33a0de8d38c1743e57697))
+
+
+## v1.0.0 (2026-02-23)
+
+
+## v5.0.2 (2026-02-23)
+
+- Initial Release
