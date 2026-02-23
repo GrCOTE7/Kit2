@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v5.1.0 (2026-02-23)
+
+### Features
+
+- Doc // TKs
+  ([`d331709`](https://github.com/GrCOTE7/Kit2/commit/d33170999219a79bcc49d1fd9c79141adcfcedc9))
+
+
 ## v5.0.7 (2026-02-23)
 
 
