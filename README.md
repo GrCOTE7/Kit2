@@ -1,13 +1,5 @@
 # PyMoX-Tools (Public)
 
-❌ Nett requirements
-
-Push / Pypi uniquement si new version, même patch...
-
-New TK2
-
-❌ GH_tk après GH
-
 Trousse à outils utiles pour devs en PyMoX
 
 ---
@@ -19,11 +11,14 @@ Trousse à outils utiles pour devs en PyMoX
 ```bash
 py -m venv .venv
 .\.venv\Scripts\activate
+py -m pip install --upgrade pip
 pip install -r requirements.txt
 
 # Installer en editable mode
-pip install -e .
+# pip install -e .
 ```
+
+❌ Écrire doc minimaliste pour GH_TK et Pypi_TK
 
 ### Build
 
