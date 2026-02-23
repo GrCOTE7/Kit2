@@ -1,3 +1,4 @@
+* [x] 1.1
 * [x] Tks
 
 # PyMoX-Tools (Public)
