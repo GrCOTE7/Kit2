@@ -27,9 +27,14 @@ pip install -r requirements.txt
 
 Définir les TOKENs (TK) nécessaires :
 
-PYPI_TOKEN dans compte Pypi.org User/Params/Jetons API
 GH_TOKEN dans compte GH User/Settings/Dev settings/PAT/TK (Classic) → new
-→ Drtoits Repo / Wkf
+→ IMPORTANT: Droits Repo & Wkf
+PYPI_TOKEN dans compte Pypi.org User/Params/Jetons API
+
+Les insérer dans dépôt GH: Settings / Secrets... / Actions / New Repo secret
+
+Mettre GH TK dans .env
+(GH PP que si on veut buid + upload depuis local)
 
 ### Build
 
