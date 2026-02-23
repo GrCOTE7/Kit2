@@ -1,6 +1,6 @@
 # PyMoX-Tools (Public)
 
-* [x] 5.0.4 ?
+* [x] 5.0.5 ? (Tk PP Err...)
 * [x] Tks
 
 Trousse à outils utiles pour devs en PyMoX
