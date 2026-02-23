@@ -28,5 +28,5 @@ dist/
 src/*.egg-info/
 
 pws.txt
-src/gc7/_version.py
+src/kit/_version.py
 CHANGE.LOG
