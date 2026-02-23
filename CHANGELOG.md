@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v5.0.3 (2026-02-23)
+
+### Bug Fixes
+
+- Previous is not a release
+  ([`7f43d29`](https://github.com/GrCOTE7/Kit2/commit/7f43d29d97cd300660b33a0de8d38c1743e57697))
+
+
 ## v1.0.0 (2026-02-23)
 
 - Initial Release
