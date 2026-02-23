@@ -1,4 +1,4 @@
-* [x] 1.2.0
+* [x] 0.0.1 → Pypi ?
 * [x] Tks
 
 # PyMoX-Tools (Public)
