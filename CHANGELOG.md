@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v5.1.2 (2026-02-23)
+
+### Bug Fixes
+
+- ↑ GI
+  ([`c8acc65`](https://github.com/GrCOTE7/Kit2/commit/c8acc65d06e8a8cef761c852311fdf955670dec7))
+
+
 ## v5.1.0 (2026-02-23)
 
 ### Features
