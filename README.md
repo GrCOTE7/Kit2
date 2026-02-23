@@ -1,7 +1,7 @@
-* [x] 0.0.1 → Pypi ?
-* [x] Tks
-
 # PyMoX-Tools (Public)
+
+* [x] 5.0.2 (Not a release) → 5.0.3P/ ypi ?
+* [x] Tks
 
 Trousse à outils utiles pour devs en PyMoX
 
