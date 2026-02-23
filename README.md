@@ -1,7 +1,9 @@
 # PyMoX-Tools (Public)
 
-* [x] 5.0.6 ? (Tk PP Err2...)
+* [x] 5.0.7 ? (Tk GH Mini rights...)
 * [x] Tks
+
+❌ Cf. _version.py necessity
 
 Trousse à outils utiles pour devs en PyMoX
 
@@ -22,6 +24,12 @@ pip install -r requirements.txt
 ```
 
 ❌ Écrire doc minimaliste pour GH_TK et Pypi_TK
+
+Définir les TOKENs (TK) nécessaires :
+
+PYPI_TOKEN dans compte Pypi.org User/Params/Jetons API
+GH_TOKEN dans compte GH User/Settings/Dev settings/PAT/TK (Classic) → new
+→ Drtoits Repo / Wkf
 
 ### Build
 
