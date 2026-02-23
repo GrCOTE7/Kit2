@@ -3,7 +3,7 @@
 * [x] 5.0.7 ? (Tk GH Mini rights...)
 * [x] Tks
 
-❌ Cf. _version.py necessity
+* [/] Cf. _version.py necessity
 
 Trousse à outils utiles pour devs en PyMoX
 
@@ -23,9 +23,7 @@ pip install -r requirements.txt
 # pip install -e .
 ```
 
-❌ Écrire doc minimaliste pour GH_TK et Pypi_TK
-
-Définir les TOKENs (TK) nécessaires :
+### Définir les TOKENs (TK) nécessaires :
 
 GH_TOKEN dans compte GH User/Settings/Dev settings/PAT/TK (Classic) → new
 → IMPORTANT: Droits Repo & Wkf
