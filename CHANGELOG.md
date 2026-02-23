@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v5.0.6 (2026-02-23)
+
+### Bug Fixes
+
+- Bad PP tk
+  ([`e9e3afc`](https://github.com/GrCOTE7/Kit2/commit/e9e3afce546395f0dd2311ac9fea3f61eef0cf98))
+
+
 ## v5.0.5 (2026-02-23)
 
 
