@@ -1,10 +1,5 @@
 # PyMoX-Tools (Public)
 
-* [x] 5.0.7 ? (Tk GH Mini rights...)
-* [x] Tks
-
-* [/] Cf. _version.py necessity
-
 Trousse à outils utiles pour devs en PyMoX
 
 ---
@@ -34,7 +29,7 @@ Les insérer dans dépôt GH: Settings / Secrets... / Actions / New Repo secret
 Mettre GH TK dans .env
 (GH PP que si on veut buid + upload depuis local)
 
-### Build
+### Build local
 
 ```bash
 py -m build
