@@ -1,4 +1,4 @@
-# PyMoX-Tools (Public)
+# PyMoX-Tools
 
 Trousse à outils utiles pour devs en PyMoX
 
