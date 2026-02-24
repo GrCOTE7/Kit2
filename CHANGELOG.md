@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v5.2.0 (2026-02-24)
+
+### Features
+
+- Nett
+  ([`645f036`](https://github.com/GrCOTE7/Kit2/commit/645f036c0c2dcf32283e0c258c984c881b30bcf4))
+
+
 ## v5.1.3 (2026-02-24)
 
 ### Bug Fixes
